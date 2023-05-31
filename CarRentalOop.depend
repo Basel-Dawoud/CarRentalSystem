@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684279981 source:g:\oop project\carrentaloop\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<fstream>
+
